@@ -31,7 +31,6 @@ The z-index property accepts integer values. Depending on their values, the inte
   left: 170px;
 }
 
-
 In the example above, we set the .blue-box position to an element relative to its normal document flow placement, allowing for improved styling control.
 relative and the z-index to 1. We changed position to relative, because the z-index property does not work on static elements. 
 The z-index of 1 moves the .blue-box element forward, because the z-index value has not been explicitly specified for the .green-box element, which means it has a default z-index value of 0.
