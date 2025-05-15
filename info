@@ -52,7 +52,6 @@ inline elements cannot be altered in size with the height or width CSS propertie
 
 To learn more about <em>inline</em> elements, read <a href="#">MDN documentation</a>.   
 
-
 In the example above, the <em> element is inline, because it displays its content on the same line as the content surrounding it, including the anchor tag. This example will display:
 
 To learn more about inline elements, read MDN documentation.
