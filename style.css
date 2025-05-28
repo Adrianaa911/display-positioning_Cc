@@ -2,7 +2,6 @@ body {
   background-color: #FFF;
   margin: 0 auto;
 }
-
 header {
   background-color: #466995;
   border-bottom: 1px solid #466995;
@@ -10,13 +9,11 @@ header {
   width: 100%;
   z-index: 10;
 }
-
 ul {
   margin: 30px auto;
   padding: 0 20px;
   text-align: center;
 }
-
 li {
   color: #FFF;
   font-family: 'Oswald', sans-serif;
@@ -26,11 +23,9 @@ li {
   display: inline-block;
   width: 80px;  
 }
-
 li:hover {
   color: #DBE9EE;
 }
-
 h1 {
   color: #466995;
   font-family: 'Oswald', sans-serif;
