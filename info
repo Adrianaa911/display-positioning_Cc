@@ -35,7 +35,6 @@ In the example above, we set the .blue-box position to an element relative to it
 relative and the z-index to 1. We changed position to relative, because the z-index property does not work on static elements. 
 The z-index of 1 moves the .blue-box element forward, because the z-index value has not been explicitly specified for the .green-box element, which means it has a default z-index value of 0.
 
-
 Display and Positioning
 Inline Display
 5 min
@@ -43,7 +42,6 @@ Every HTML element has a default display value that dictates if it can share hor
 Other elements only take up as much horizontal space as their content requires and can be directly next to other elements.
 
 In this lesson, we’ll cover three values for the display property: inline, block, and inline-block.
-
 The default display for some elements, such as <em>, <strong>, and <a>, is called inline.
 Inline elements have a box that wraps tightly around their content, only taking up the amount of space necessary to display their content and not requiring a new line after each element.
 The height and width of these elements cannot be specified in the CSS document.
